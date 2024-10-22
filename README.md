@@ -1,4 +1,4 @@
-##👋 ¡Hola! Soy Alejandro
+👋 ¡Hola! Soy Alejandro
 ¿Quién soy?
 Soy un Analista de Datos Junior con formación en análisis de datos, marketing y comercio. Además, cuento con estudios en diseño, lo que me ha dado una perspectiva única y creativa a la hora de trabajar con datos y colaborar en equipos interdisciplinarios. Me encanta encontrar soluciones basadas en datos que ayuden a mejorar procesos y tomar decisiones más informadas.
 
