@@ -1,4 +1,4 @@
-##👋 ¡Hola! Soy [Tu Nombre]
+##👋 ¡Hola! Soy Alejandro
 ¿Quién soy?
 Soy un Analista de Datos Junior con formación en análisis de datos, marketing y comercio. Además, cuento con estudios en diseño, lo que me ha dado una perspectiva única y creativa a la hora de trabajar con datos y colaborar en equipos interdisciplinarios. Me encanta encontrar soluciones basadas en datos que ayuden a mejorar procesos y tomar decisiones más informadas.
 
@@ -18,8 +18,10 @@ Metodologías: Enfoque en metodologías ágiles para gestionar y optimizar flujo
 ¿Cómo puedes contactarme?
 📫 ¡Estaré encantado de conectarnos y colaborar!
 
-LinkedIn: Tu perfil de LinkedIn
-Correo electrónico: tucorreo@example.com
+LinkedIn:www.linkedin.com/in/alejandro-riba-85a62024b
+
+
+Correo electrónico: aleribaid@gmail.com
 
 <!--
 **aleribaid/aleribaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
